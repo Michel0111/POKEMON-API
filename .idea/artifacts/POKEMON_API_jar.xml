@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="POKEMON-API:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/POKEMON_API_jar</output-path>
+    <root id="archive" name="POKEMON-API.jar">
+      <element id="module-output" name="POKEMON-API" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/h2database/h2/2.1.214/h2-2.1.214.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/sqlite-jdbc-3.42.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
